@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SERAGORN.github.io/static/css/main.d1b05096.chunk.css",
-    "main.js": "/SERAGORN.github.io/static/js/main.4ab1f97f.chunk.js",
-    "main.js.map": "/SERAGORN.github.io/static/js/main.4ab1f97f.chunk.js.map",
+    "main.js": "/SERAGORN.github.io/static/js/main.5bd1b495.chunk.js",
+    "main.js.map": "/SERAGORN.github.io/static/js/main.5bd1b495.chunk.js.map",
     "runtime-main.js": "/SERAGORN.github.io/static/js/runtime-main.a9e3604d.js",
     "runtime-main.js.map": "/SERAGORN.github.io/static/js/runtime-main.a9e3604d.js.map",
-    "static/js/2.bdce0e11.chunk.js": "/SERAGORN.github.io/static/js/2.bdce0e11.chunk.js",
-    "static/js/2.bdce0e11.chunk.js.map": "/SERAGORN.github.io/static/js/2.bdce0e11.chunk.js.map",
+    "static/js/2.0671d891.chunk.js": "/SERAGORN.github.io/static/js/2.0671d891.chunk.js",
+    "static/js/2.0671d891.chunk.js.map": "/SERAGORN.github.io/static/js/2.0671d891.chunk.js.map",
     "index.html": "/SERAGORN.github.io/index.html",
-    "precache-manifest.479e4580487ae833281288043d929da7.js": "/SERAGORN.github.io/precache-manifest.479e4580487ae833281288043d929da7.js",
+    "precache-manifest.addc36e4e2792bd52644655b753a14f8.js": "/SERAGORN.github.io/precache-manifest.addc36e4e2792bd52644655b753a14f8.js",
     "service-worker.js": "/SERAGORN.github.io/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/SERAGORN.github.io/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bdce0e11.chunk.js.LICENSE": "/SERAGORN.github.io/static/js/2.bdce0e11.chunk.js.LICENSE",
+    "static/js/2.0671d891.chunk.js.LICENSE": "/SERAGORN.github.io/static/js/2.0671d891.chunk.js.LICENSE",
     "static/media/logo.svg": "/SERAGORN.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a9e3604d.js",
-    "static/js/2.bdce0e11.chunk.js",
+    "static/js/2.0671d891.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4ab1f97f.chunk.js"
+    "static/js/main.5bd1b495.chunk.js"
   ]
 }

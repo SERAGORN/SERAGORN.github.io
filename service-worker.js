@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SERAGORN.github.io/precache-manifest.479e4580487ae833281288043d929da7.js"
+  "/SERAGORN.github.io/precache-manifest.addc36e4e2792bd52644655b753a14f8.js"
 );
 
 self.addEventListener('message', (event) => {
